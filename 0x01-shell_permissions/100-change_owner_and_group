@@ -1,2 +1,2 @@
-i#!/bin/bash
-chown betty:holberton *
+#!/bin/bash
+chown vincent:staff *
